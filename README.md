@@ -6,6 +6,7 @@
 ## Задачи:
 
 1.  **Подключиться** к предоставленной базе данных PostgreSQL.
+"cells": [
 {
       "cell_type": "code",
       "execution_count": 5,
